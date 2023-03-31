@@ -51,19 +51,19 @@ Amazon CloudFront의 전 세계적으로 분산되어 있는 엣지 로케이션
 
 → 샤드를 늘린다.
 
-Amazon Kinesis Data Firehose
+## Amazon Kinesis Data Firehose
 
 kinesis data streams가 데이터를 실시간으로 캡쳐 및 수집한다면 firehose는 해당 데이터를 분석 서비스롤 이동 및 모니터링 한다. 
  
-Amazon SQS keyword - 분리 , 분산 (decoupling)
+## Amazon SQS keyword - 분리 , 분산 (decoupling)
 
 메시지 대기열 기능, 유지 관리 자동화, 메시지 비 동기적 전송 및 검색 가능
  
-FIFO 대기열 keyword - 특정 순서
+## FIFO 대기열 keyword - 특정 순서
 
 
 
-Amazon SQS 지연 대기열
+## Amazon SQS 지연 대기열
 
 몇 초 동안 소비자에게 새 메시지 전달을 연기할 수 있다. 지연 대기열은 가시성 제한 시간 과 유사하다 . 두 기능 모두 특정 기간 동안 소비자가 메시지를 사용할 수 없도록 하기 때문이다. 
 
