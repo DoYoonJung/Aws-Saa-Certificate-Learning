@@ -1,6 +1,6 @@
 # Aws-Saa-Certificate-Learning
 
-##AWS Step Functions
+## AWS Step Functions
 
 분산 애플리케이션과 마이크로 서비스의 구성요소를 손쉽게 조정, 애플리케이션을 빠르고 쉽게 확장 및 변경 가능
 
@@ -12,17 +12,17 @@
 4.	코드 작성 없이 단계를 변경 및 추가 가능, 간편하게 애플리케이션 개선
  
 
-##AWS X-Ray
+## AWS X-Ray
 
 개발자가 프로덕션 분산 애플리케이션(예: 마이크로 서비스 아키텍처를 사용해 구축된 애플리케이션)을 분석하고 디버깅하는 데 도움을 주는 서비스
 
 요청이 애플리케이션을 통과함에 따라 요청에 대한 엔드 투 엔드 뷰를 제공하고 애플리케이션의 기본 구성 요소를 맵으로 보여준다. 
 
-##Amazon S3 Transfer Acceleration
+## Amazon S3 Transfer Acceleration
 
 클라이언트와 S3 버킷 간의 장거리에서 파일을 빠르고 쉽고 안전하게 전송할 수 있는 버킷 수준 기능이다.
 
 Amazon CloudFront의 전 세계적으로 분산되어 있는 엣지 로케이션을 활용한다. 데이터가 엣지 로케이션에 도착하면 데이터는 최적화 네트워크 경로를 통해 Amazon S3으로 라우팅 된다.
 
-##Amazon S3 조건 키
+## Amazon S3 조건 키
  
