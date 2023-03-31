@@ -1,8 +1,7 @@
 # Aws-Saa-Certificate-Learning
 
 
-
-<span style="color:yellow"> ## AWS Step Functions </span>
+## <span style="color:yellow"> AWS Step Functions </span>
 
 분산 애플리케이션과 마이크로 서비스의 구성요소를 손쉽게 조정, 애플리케이션을 빠르고 쉽게 확장 및 변경 가능
 
