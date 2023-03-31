@@ -1,5 +1,8 @@
 # Aws-Saa-Certificate-Learning
 
+<img src="C:\Users\m\AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" width="450px" height="300px" alt="RubberDuck"></img><br/>
+
+
 ## AWS Step Functions
 
 분산 애플리케이션과 마이크로 서비스의 구성요소를 손쉽게 조정, 애플리케이션을 빠르고 쉽게 확장 및 변경 가능
